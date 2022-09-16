@@ -20,6 +20,11 @@ main {
     padding: 20px;
     margin: auto;
     margin-top: 100px;
+    color:white;
+}
+
+main h2{
+    margin-top: 100px; 
 }
 
 .contenedor__todo {
@@ -162,4 +167,7 @@ main{
 
 }
 
+}
+.DesarrolladoPor h2{
+    color: white
 }
